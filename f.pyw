@@ -1,3 +1,4 @@
+# https://youtu.be/HaQo26Z7Hmg
 from keybhook import start_hook, config, VK_CODELETTER # pip install keybhook pandas numpy
 import pandas as pd
 import numpy as np
