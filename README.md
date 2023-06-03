@@ -2,6 +2,11 @@
 
 # Cuidado: Proteja sua Privacidade! Aprenda sobre Keyloggers feitos em Python
 
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/HaQo26Z7Hmg/maxresdefault.jpg)](https://www.youtube.com/watch?v=HaQo26Z7Hmg)
+[https://www.youtube.com/watch?v=HaQo26Z7Hmg]()
+
 Você já parou para pensar em como sua privacidade pode estar em risco quando você usa computadores 
 públicos ou permite que outras pessoas usem seu próprio computador? 
 Bem-vindo ao mundo dos keyloggers feitos em Python, 
